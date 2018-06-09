@@ -1,0 +1,219 @@
+
+V1:
+Alles was jetzt (Stand 26.02.2018) Status "Review durchgeführt" hat, jetzt ins wiki ( http://wiki.piratenpartei.de/BY:Programmentwicklung_Bayern/2018 ) kippen und auf Discourse zur allgemeinen Diskussion ohne intensive Betreuung freigeben.
+Im Anschluss einen gemeinsamen Mumbletermin anbieten in dem Vorschläge von den Vorschlagenden nochmals erläutert werden können und bei Beurteilung als gut in den Programmpunkt eingearbeitet werden. 
+
+V2:
+
+
+ENTWURF
+
+Tools zur Programmerstellung
+ * Piratenpad (by-programm.piratenpad.de, Zugang nur für registrierte Nutzer)
+ * regelmäßige Mumblerunden (für alle offen)
+ * Discourse zur Dokumentation der Zwischenstände
+ * Präsenz-Programmkonferenzen
+
+Ziel
+ * Ein stimmiges Wahlprogramm aus einem Guss
+   * Hinweis: Auch wenn wir sie nicht mögen, man sollte mal einen Blick ins CSU-Programm werfen (hinsichtlich Aufbau): http://www.csu.de/common/_migrated/csucontent/bayernplan_2013-07-16_02.pdf
+
+https://by-programm.piratenpad.de/themenzuordnung
+
+- Sozialer Wohnungsbau / bezahlbarer Wohnraum
+ * Druck aus den Großstädten durch Förderung kleiner und mittlerer Städte herausnehmen
+   * https://by-programm.piratenpad.de/StadtLand
+ * - Positionen von den "Grünen" bitte mal prüfen, ob das auch unsere Positionen sind oder wir da anderen Schwerpunkt legen wollen --> bitte prüfen !!!!!!
+   * Schaffung von 50.000 neuen kostengünstigen Wohnungen in Bayern bis 2020 und entsprechende Anhebung und Verstetigung der Landesmittel zur Wohnraumförderung
+   * Aufstockung der Kompensationszahlungen des Bundes für die Wohnraumförderung von einer auf mindestens 2 Milliarden Euro
+   * Angebot zur freiwilligen Verlängerung der Belegungsrechte bei Sozialwohnungen, deren Bindung ausläuft
+   * Leerstand beseitigen durch die Einrichtung von Börsen zur Wohnraumvermittlung und Anreize schaffen, zur Sanierung länger leerstehenden, innerörtlichen Wohnraums
+
+
+- Mitbestimmung ausbauen und stärken
+ * 
+- Digitales Bayern - smegworx
+ * inkl. Breitband/5G etc./ Handy Netz
+ * eGov 
+ * Digitalisierung von Antragsprozessen / End2End-Prozesse, gerade bei Beantragung digitaler Fördermittel
+ * OpenData
+- Moderne und zukunftsgerechte Bildung - smegworx
+ * Neue Lehrfächer (Pflichtfach Informatik/Medienkunde/Datenschutz/Programmieren)
+ * Nutzung MOOC, OER -> offene Bildungsmaterialien und offene Bildungsangebote
+ * Mehr Personal, Vermeidung von Lehrerentlassungen (Planungssicherheit für Nicht-Beamte Lehrer/innen und Erzieher/innen) + Qualifizierung Lehrer
+ * Online-Studienplatzvergabe
+   * alle Studienplätze sollen online verfügbar sein, damit sich Interessierte dort auch einschreiben können
+ * "DigitalPakt" - Bayern
+   * Moderne Lehrräume / Steckdosen für Digitale Geräte , BYOD, Erhaltung Bau-infrastruktur
+   * Bildungsurlaub wie in anderen Bundesländer (Linux Tag, Politische Bildung, CCC-Kongress, Barcamps) Arbeitnehmer entscheidet über Bildung 
+- IT-Sicherheit/Datenschutz (inkludiert)
+- Digitale Wirtschaft -> smegworx
+ * Förderung StartUp und Schaffung Rahmenbedingungen
+ * Breitbandausbau + 5G als Grundlage für wirtschaftliche Entwicklung
+ * Förderung CoWorking-Areas
+ * Neue Arbeitszeitmodelle etablieren (Home-Office)
+ * DigitalHubs ausbauen
+- Digitalisierung auf dem Land / Förderung des ländlichen Raums
+ * Schaffung von sinnvollen und nutzbaren Verkehrsinfrastrukturen für Pendler (auch ÖPNV, Radwege, ...) zur Anbindung des ländlichen Raums an die Mittelzentren/Zentren/Großstädte
+ * Sicherstellung von kulturellen Angeboten auch im ländlichen Raum (auch Kino etc.)
+ * Sicherstellung der Versorgungssicherheit auch in ländlichen Gebieten ("Dorfläden", ggfls. auch mobile Dorfläden) in zumutbarer Entfernung
+ * Sicherstellung von weiterführenden Bildungseinrichtungen in erreichbarer Nähe
+ * autonomes Fahren - Modellprojekt <- siehe auch "Mobilität neu denken" 
+   * http://digital-info.eu/digitalisierung-auf-dem-land/ - Übergreifendes Konzept zum Nachlesen
+- Armutsbekämpfung / Familienpolitik
+ * Kinderrechte stärken und in bayerische Verfassung aufnehmen
+ * KiTa-Ausbau (auch kostenfrei) / Betreuungsschlüssel (weniger Kiddies auf einzelne gequälte Erzieher / Qualität
+ * Rückkehr in den Arbeitsplatz (Teilzeitanspruch?) (<- Bundesrecht? Prüfen!)
+ * 
+- Gesundheitspolitik/Gesundheitsversorgung auf dem Land
+ * "Schnelles und ortsnahes Erreichen von Ärzten durch die Bürger sicherstellen"
+   * Mehr Landärzte, praxisnähere Verteilung, ggfls. Vergütungsmodelle prüfen; "Landarztförderung" durch den Freistaat ausbauen bzw. mindestens auf bisherigem Niveau weiterführen Schutz vor Regressen bei vermeintlicher "Überbehandlung" (Bundes und Landesrecht, als Partei vllt. Vermittlung fordern)
+   * ggfls. Förderung von Ärztezentren nach diesem Programm
+   * Notarztversorgung ausbauen bzw. als Mindestforderung "nicht weiter abbauen"
+     * (Stellung der KVB, keine Transparenz über Entscheidungen)
+   * inkl. Telemedizin, ggfls. ehealth-Möglichkeiten berücksichtigen)
+   * In Krankenhäusern werden Stationen geschlossen - Sicherstellung der ortsnahen Versorgung ! , Profit statt Gesundheit, Krankenhäuser in kommunale/Bürgerhand o.ä.
+ * http://wiki.piratenpartei.de/Parteiprogramm#Gesundheitspolitik (Link zum Bundesprogramm)
+- Heimat (ohne fremdenfeindliche Abgrenzungen) --> sollte mit SG Wahlkampforga abgesprochen werden, ggfls. als Claim für das gesamte Programm
+ * Frei(heits)staat Bayern, Übergreifend, zukunftsorientierte Entwicklung, gastfreundliche Heimat mit einer Tür die größer ist als das Schloss, 
+   * „Heimat“, sagt er, „ist der Ort, den wir als Gesellschaft erst schaffen.“ Ein Ort des Verstehens und des Miteinanders. (Steinmeier)
+
+   * Bayern. Zukunft. Heimat.
+   * - digital und menschlich
+   * Ein Ort des Verstehens und des Miteinanders.
+
+- Mobilität neu denken 
+ * inkl. Fahrscheinfreier Nahverkehr/autonom. Fahren/smartcity/Elektromobilität, Ladesäuleninfrastruktur (http://ladeatlas.elektromobilitaet-bayern.de/) 7.000 sind zu wenig - Förderung verlängern und vor allem erhöhen! -> auch sicheres Bezahlen mit Betrachten/ Carsharing 
+ * geeichte Geräte für Rechtssicherheit 
+ * Differenzierung Stadt/Land berücksichtigen - auch bei Werbemitteln !!
+ * autonomes Fahren (Modellprojekt) <- Siehe auch "Förderung ländlicher Raum"
+ * Güterverkehr auf die Schiene bringen -> Zubringer zum Brennerbasistunnel bauen (DB-Problematik beachten)
+- Energiewirtschaft (Erneuerbare Energien,Netzausbau) <-- Reinhold Deuter
+ * Energiewende heist für Piraten 100 % Erneuerbare Energien und somit keine fossilen Energieträger in allen Bereichen- heißt auch sofortige Abschaltung der bayerischen AKW
+ * Dezentralisierung der Stromerzeugung zur Erhöhung der Versorgungssicherheit
+ * Stop des überflüssigen Ausbaus der Übertragungsnetze
+   * https://energiepolitik.piratenpartei.de/2016/12/15/orangebuch-energiepolitik/
+ * Abschaffung der wissenschaftlich nicht begründbaren 10H Regel
+ * bayrisches Förderprogram für kleine Solaranlagen (Sowohl PV als auch Thermische)
+ * bayrisches Förderprogram für die Installation von kleinen Elektrospeichern (Hausspeicher)
+ * bayrisches Förderprogram für die Erneuerung von Heizungsanlagen
+ * bayrisches Förderprogram für die Verbesserung der Isolation von Häusern (bei Neu-/Umbauten)
+   * https://www.stmi.bayern.de/buw/hochbau/programmeundinitiativen/energetischesanierung/index.php
+- Landwirtschaft/Agrarpolitik/ökologische Landwirtschaft/Erhaltung "traditioneller" Landwirtschaft 
+ * Subventionspolitik mitbetrachten 
+ * Maschinenringe... 
+ * Digitalisierung auf dem Land mit betrachten (<-- Digitalisierung auf dem Land / Förderung des ländlichen Raums)
+ * Spannungsfeld: Günstige Lebensmittel, nachhaltige Landwirtschaft, Auskommen der Bauern, Flächennutzung
+ * Förderung von Züchtung und Zulassung lizenzfreier Pflanzensorten Entwicklung durch staatliche Versuchsgüter
+ * Forschung an Robotern, die selbständig Unkraut jäten, um Pestizideinsatz zu verringern
+ * bayrisches Förderprogram für Umstellungsbetriebe
+ * Änderung de Beratung bei den Landwirtschaftsämtern Klasse statt Masse
+- Naturschutz
+ * Änderung des Jagdrechtes ( z.B. Wildschweine)
+ * Keine Nutzung von glyphosphat und Neonicotinoide 
+- Tourismus
+ * Förderung regionaler oder lokaler Fremdenverkehrsorganisationen/Vereinen
+   * (Entmonopolisierung)
+ * Wohnraumproblematik Sozialer Wohnungsbau mitbeachten (Umwidmung von Wohnraum zu "Touristenunterkünften", AirBnB) , Steuerung durch Tourismuskristallisationspunkte
+ * Förderung Freifunk in Touristikballungsgebieten (alternativ in Tourismus-Gebieten, bei denen schnelles I-Net nicht zum Standard gehören) --> nur im Text erwähnen -> ansonsten bei "Digitales Bayern" unterbringen
+ * Förderung von öffentlichen touristischen Infrastruktureinrichtungen 
+   * (prüfen, ob Förderprogramm By ausreicht oder wir weitergehende Forderungen stellen <-- Benjamin kümmert sich bis 22.01. drum)
+   * Benjamin hat sich mit der Tourist-Info in Verbindung gesetzt und wartet noch auf Zusendung von Info-Unterlagen
+- Ehrenamt als unverzichtbaren Bestandteil der bayerischen Gesellschaft anerkennen und fördern
+ * Erweitern/Fördern Digitales Ehrenamt  (als Begriff "vereinnahmen")
+   * Freifunk, Open Streetmap, Wikipedia (Communities ?)
+   * "Freiwilliges digitales Jahr" etablieren ! (älteren Menschen, Flüchtlingen Technik erklären) https://blog.wegweiser-kommune.de/allgemein/bund-laender-kommunen-wer-foerdert-das-digitale-ehrenamt
+ * Motivieren von Jugendlichen zum Ehrenamt ("Mehr Ehrenamtskarte wagen" :-) http://www.stmas.bayern.de/fibel/sf_b010.php )
+- Innere Sicherheit und Rechtsstaat
+ * Sicherheitspolitik statt Totalüberwachung
+   * Keine flächendeckende Videoüberwachung
+   * Keine Gesichtserkennung bei Videoüberwachung
+   * Mehr Streifenpolizisten statt Geld für Technik - Mehr Kavallerie (eigentlich eher Fußsoldaten *g*) Ok, dann eben mehr Infanterie ^^
+   * Polizeidienststellen in der Fläche nicht abbauen
+   * Bayern-Trojaner absetzen, stattdessen etwas für IT-Sicherheit der Bürger machen (Sicherheitslücken nicht sammeln sondern schließen; siehe Wannacry etc.) Was wären Alternativen zu unserer Ansicht nach falschen Überwachungsmöglichkeiten? Trojaner ist/sind schon aus rein technischer Sicht eine unverantwortliche Maßnahme, eventuell Vergleich Trojaner == unentdeckte Hausdurchsuchung
+ * Kennzeichnungspflicht für Polizisten
+ * Änderung am PAG zurücknehmen -> Keine Unendlichkeitshaft
+ * Anonyme Teilnahme an Demonstration ermöglichen -> Kein Vermummungsverbot  bzw. Rücknahme Strafverschärfung (zurück auf Ordnungswidrigkeit statt Straftat), keine IMSI-Catcher zur Überwachung von Demos ( http://wiki.piratenpartei.de/BY:Landesparteitag_15.1/Antr%C3%A4ge/Positionspapier_001 )
+- Straßenausbausatzung abschaffen - Beteiligung der Anwohner
+
+Themen mit Diskussionsbedarf ob überhaupt dazupasst
+
+ * bayerisches Aufstockerprogamm für Bezieher der Grundsicherung (100€ gehen) <- Als Art "Brückentechnologie bis zur Verbesserung der allgemeinen Rentensituation? (War - Armutsbekämpfung / Familienpolitik") --> bitte jeder nochmals recherchieren und überdenken, Diskussion in nächster Mumble-Runde
+ * Pflege - Betreuungsringe etc. (inhaltlich prüfen) ? (Zeitweise Entlastung für Angehörige, kurzeitige Entlastung  ) Lösung = Entlastungsgutschein  (Zuschuss ? Finanzierung mit ansprechen) (War - Gesundheitspolitik/Gesundheitsversorgung auf dem Land)
+
+--->>>> Bisher 16  (!) Themen 
+
+Vorschlag: Zu jedem Thema / Unterthema die politische Position (positiv) in maximal 2-3 verständlichen (für den Bürger) Sätzen formulieren.
+
+Termin für regelmäßige Mumblesitzung: 
+Vorschlag: Montags, 20:30 Uhr 
+
+Phase 1:
+
+ * Durchsicht 2013er Programm ( https://piratenpartei-bayern.de/files/2013/06/Landtagswahlprogramm-Piratenpartei-Bayern-Webversion.pdf bzw. https://piratenpartei-bayern.de/wahlprogramm2013/ )
+ * Abgleich mit bereits existenten Änderungsvorschlägen bzw. Neuformulierungen sowie neuen Programmpunktvorschlägen (siehe https://by-programm.piratenpad.de/Inhaltsverzeichnis )
+ * Ggf. Integration der Positionspapiere ins Wahlprogramm
+ * Festlegung: Was ist "heisser Scheiss" auf Landesebene? Was ist sekundär?
+ * Erarbeitung einer neuen, bzw. Überarbeitung der bestehenden Gliederung aus dem 2013er Programm
+
+ * Ort/Tools: 
+   * Piratenpad
+   * regelmäßige Mumblerunden
+
+ * Ziel:
+   * Erste Veröffentlichung Gliederung per Discourse
+
+ * Deadline: 
+   * ?
+
+Phase 2:
+
+ * Schärfung/Verschlankung/Ausweitung 
+ * zweitägige Präsenz-Programmkonferenz
+ * 
+
+ * Ort/Tools:
+   * Piratenpad
+   * regelmäßige Mumblerunden
+   * Präsenz-Programmkonferenz
+
+ * Ziel:
+   * Fertigstellung Wahlprogramm Ver. Beta 1 (Veröffentlichung?)
+
+ * Deadline: 
+   * ?
+
+Phase 3:
+
+ * Diskussion und Überarbeitung in Tiefe oder Breite
+ * 
+ * 
+
+ * Ort/Tools:
+   * Piratenpad
+   * regelmäßige Mumblerunden
+
+ * Ziel:
+   * Fertigstellung Wahlprogramm Ver. Beta 2 (Veröffentlichung?)
+
+ * Deadline: 
+   * ?
+
+Phase 4:
+
+ * finaler Schliff
+ * zweitägige Präsenz-Programmkonferenz
+ * 
+
+ * Ort/Tools:
+   * Piratenpad
+   * regelmäßige Mumblerunden
+   * Präsenz-Programmkonferenz
+
+ * Ziel:
+   * Fertigstellung Wahlprogramm Ver. Final
+   * Einreichung Antrag auf Beschluss eines Wahlprogrammes
+
+ * Deadline: 
+   * ?
+

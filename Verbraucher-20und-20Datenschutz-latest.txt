@@ -1,0 +1,51 @@
+ * Verbraucher- und Datenschutz
+
+Effektiver digitaler Verbraucherschutz:
+
+ * Unsere Betrachtung der Situation: 
+   * Datenschutz ist wichtig. 
+   * Datenschutz ist digitaler Verbraucherschutz. 
+   * Daten- und Verbraucherschutz benötigt mehr Aufmerksamkeit, deshalb Trennung von Natur/Umwelt. 
+   * Kommunikation mit der Öffentlichkeit als wichtige Aufgabe des Ministeriums / der Landesämter, derzeit mangelhaft
+ * Unsere Forderung:
+   * Splittung des Ministeriums für Verbraucher und Umweltschutz in "Min. für Daten- und Verbraucherschutz" und "Min. für Umwelt und Naturschutz"
+   * Einrichtung Informationsplattform (welcher Skandal ganz neu, welche Gefahren aktuell, etc.)
+ * Unsere Begründung:
+
+Wir PIRATEN sehen den Datenschutz als wichtigen Grundpfeiler des allgemeinen Verbraucherschutzes in unserer digitalisierten und globalisierten Welt an. Regelmäßig wiederkehrend erinnern uns Datenmissbrauchsskandale wie bspw. der Facebook-Cambridgeanalytica-Fall daran, wie wichtig Datenschutz und eine effektive Durchsetzung dieses auf nationaler wie auch internationaler Ebene geworden sind.
+
+Forderung: eine Art Presserat bzw. Ehrenkodex für Betreiber von Sozialen Netzwerken
+Forderung: Ministerium für Verbraucher- und  Datenschutz, Abspaltung Umwelt/Naturschutz in eigenes Ministerium (mit  bspw. Energiewende)
+
+Datenschutz bedeutet Schutz der Persönlichkeitsrechte. => Datenschutz als Schutz der Integrität des Bürgers
+Datenschutz schützt den Bürger vor Übergriffen des Staates und von Unternehmen
+Verbraucherschutz, insbesondere bei Lebensmittelskandalen darf nicht mit Bezug auf Datenschutz verhindert werden.
+Personelle Verstärkung bei der Lebensmittelüberwachung. Die derzeitig Struktur der Lebensmittelüberwachung ist nicht geeignet die Bürger  wirksam zu schützen. Zu enge Beziehungen zwischen kontoleuren und kontrollierten müssen durch organisatorische Maßnahmen verhindert werden.
+
+Umwelt und Naturschutz benötigt heutzutage insbesondere im Kontext mit der Energiewende ebenso wie der Datenschutz ein stärkeres Interesse, so dass eine Vereinigung in einem gemeinsamen Ministerium keine adäquate Konzentration auf das jeweils einzelne Themengebiet zulässt. 
+
+Zugänglichmachung von gelisteten Sicherheitslücken für Betriebsysteme und elektronische Geräte (Stichwort: IoT) (z.B. Fernseher, Router, Babyfon, Haussicherheitstechnik)
+
+----
+Sammlung von richtigen Data Breaches 
+https://haveibeenpwned.com/PwnedWebsites
+
+Wir PIRATEN sehen den Datenschutz als  wichtigen Grundpfeiler des allgemeinen Verbraucherschutzes in unserer  digitalisierten und globalisierten Welt an. 
+Wir PIRATEN fordern daher ein eigenständiges Ministerium für Daten- und Verbraucherschutz, das den heutigen Anforderungen gerecht wird. In der derzeitigen Kopplung mit dem Bereich Umweltschutz sehen wir diese Möglichkeit als nicht gegeben.
+Lebensmittel- und Datenskandale zeugen von der Notwendigkeit, politische Rahmenbedingungen zu setzen um die Bürger wirksam zu schützen.
+Global agierende Produzenten und Produktanbieter müssen wirksam kontrolliert und etwaige Gefahren vom Bürger abgewendet werden.
+Über ein schnelles Meldesystem müssen Informationen weitergemeldet und nach Überprüfung bei Gefahr die Bürger entsprechend schnell gewarnt werden.
+
+Dazu gehört etwa die Auflistung von bekannten Sicherheitslücken für Betriebsysteme und elektronische Geräte (Stichwort: IoT) oder die Auflistung von bekannt gewordenem  Datendiebstahl.
+
+Verbraucherschutz beschränkt sich nicht auf die Kontrolle von Lebensmittel, sondern umfasst auch die Regulierung gewerbsmäßigen Sammelns von Daten, die Erstellung von Profilen über Vorlieben, Einstellungen oder Orientierungen.
+
+Es besteht Auskunftspflicht gegenüber dem Verbraucher, welche Informationen über ihn gesammelt wurden.
+Nach dem Prinzip "Meine Daten gehören mir" muss dem Anwender/Verbraucher die Möglichkeit eingeräumt werden, auf die Verwendung der auf ihn bezogenen oder von ihm stammenden Daten Einfluss zu nehmen, bis hin zur Löschung dieser Daten.
+
+Wer mit Lebensmitteln handelt oder diese verarbeitet, wird regelmäßig kontrolliert. Ebenso muss, wer mit Personen zuordenbaren Daten handelt oder diese auswertet, regelmäßig überprüft werden.
+
+Die Verbraucher zahlen vielmals mit ihren Daten. Dahingehend ist es Aufgabe des Verbraucherschutzes über die Geschäftsmodelle von Internetfirmen und deren Umgang mit persönlichen Daten zu informieren, damit die Datenschutz-Grundprinzipien wie Datensparsamkeit, Datenvermeidung, Zweckbindung und Erforderlichkeit deutlich werden. Über alternative Angebote zu den bekannten Branchenriesen muss informiert werden,
+
+Die Zulassung von Sammelklagen würde geschädigten Verbrauchern die Möglichkeit geben, aufgrund höchstrichterlicher Urteile, schneller entschädigt zu werden (Dieselskandal). <- Alle unzufrieden mit Formulierung, aber noch hat keiner eine bessere Idee.
+
